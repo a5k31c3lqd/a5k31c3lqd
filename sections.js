@@ -1,0 +1,3 @@
+window.SiteSections=[
+ ['tap-the','Tổ chức · Tập thể lớp'],['to-1','Tổ chức · Tập thể lớp · Tổ 1'],['to-2','Tổ chức · Tập thể lớp · Tổ 2'],['to-3','Tổ chức · Tập thể lớp · Tổ 3'],['to-4','Tổ chức · Tập thể lớp · Tổ 4'],['ban-can-su','Tổ chức · Ban cán sự lớp'],['giao-vien','Tổ chức · Giáo viên bộ môn'],['doan-thanh-nien','Tổ chức · Đoàn Thanh niên'],['tin-tuc','Tin tức - Thông báo'],['thoi-khoa-bieu','Thời khóa biểu'],['lich-cong-tac','Lịch công tác'],['anh','Kỷ yếu A5-K31 LQĐ'],['video','Thư viện · Video clip'],['bai-giang','Thư viện · Bài giảng'],['tai-nguyen','Thư viện · Tài nguyên'],['infographic','Thư viện · Infographic']
+];

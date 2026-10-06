@@ -1,0 +1,1 @@
+/* Bản công khai không có trình quản trị. */
