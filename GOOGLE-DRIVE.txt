@@ -1,0 +1,28 @@
+CÁCH ĐƠN GIẢN: ALBUM GOOGLE DRIVE
+
+1. Trên drive.google.com: tạo thư mục theo album, tải ảnh gốc vào thư mục đó.
+2. Nhấn chuột phải thư mục > Chia sẻ. Trong Quyền truy cập chung chọn Bất kỳ ai có đường liên kết, quyền Người xem. Sao chép liên kết. Tài khoản trường/cơ quan có thể bị hạn chế chia sẻ ngoài tổ chức; nếu không có tùy chọn này, cần tài khoản phù hợp hoặc quản trị viên cho phép.
+3. Giải nén bộ website, mở admin.html.
+4. Trong Album Google Drive: nhập tên, dán link thư mục dạng https://drive.google.com/drive/folders/..., chọn một ảnh đại diện trên máy, bấm Thêm album.
+5. Bấm Xem trước album để xem thử. Khách bấm ảnh đại diện hoặc tên album sẽ mở thư mục trên Drive trong tab mới.
+6. Bấm Xuất website để đăng GitHub. Giải nén ZIP xuất ra, tải các file/thư mục bên trong vào gốc repo GitHub, commit.
+7. Nếu chưa bật Pages: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+
+LẦN SAU
+- Chỉ thêm ảnh vào cùng thư mục Drive: không phải xuất lại website. Người xem mở album sẽ thấy ảnh mới theo quyền chia sẻ Drive.
+- Thêm album mới, sửa tên/link/ảnh đại diện, xóa hoặc sắp xếp album: chỉnh ở admin, xuất website và cập nhật GitHub.
+- Slideshow trang chủ vẫn tải ảnh riêng trong mục Slideshow trang chủ, xuất lại khi thay đổi.
+
+LƯU Ý
+- Bản website chỉ giữ ảnh đại diện được tự thu nhỏ (tối đa 800px) và liên kết thư mục. Không đọc danh sách 2.000 ảnh từ Drive, không tải 24 GB vào trình duyệt, không cần API/token Google.
+- Bấm album để xem, phóng to và tải ảnh trên giao diện Google Drive; không xem riêng toàn bộ ảnh Drive bằng popup của website. Popup vẫn dành cho ảnh riêng được thêm theo cách cũ trong mục nâng cao.
+- Nút Tải ảnh theo album trên website mở các liên kết album; người xem chọn tải trên Google Drive. Không tự tạo ZIP 24 GB trên website. Google có thể chia/gom tệp và xử lý tải xuống theo dịch vụ của họ.
+- Kiểm tra link trong cửa sổ ẩn danh để chắc rằng người xem không cần quyền bổ sung. Thư mục chia sẻ bằng link có thể được mở bởi người có link; chỉ chia sẻ ảnh được phép công khai.
+- Drive miễn phí 15 GB dùng chung với Gmail và Photos, không đủ 24 GB. Cần tài khoản có đủ dung lượng còn trống hoặc gói lưu trữ phù hợp.
+- Xóa album trong admin chỉ bỏ liên kết trên website, không xóa ảnh trên Drive.
+- Không dán mật khẩu, token hay liên kết có thông tin đăng nhập vào admin. Tài khoản quản trị việc đăng website là tài khoản GitHub có quyền ghi repo.
+- Bản chỉnh sửa lưu trên trình duyệt; ảnh đại diện và album chỉ công khai sau khi xuất/cập nhật GitHub.
+
+TÀI LIỆU GOOGLE
+https://support.google.com/drive/answer/7166529?hl=vi
+https://support.google.com/googleone/answer/9004014?hl=vi

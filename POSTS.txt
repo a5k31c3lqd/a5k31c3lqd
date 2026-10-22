@@ -1,0 +1,9 @@
+BÀI VIẾT VÀ TÀI LIỆU
+
+Trong admin: tạo bài, chọn mục, nhập nội dung hoặc bảng, thêm nhiều tệp, lưu và xuất website. Bài hiện dưới dạng thẻ; bấm thẻ để đọc bài trong đúng mục.
+
+Tệp lớn: tải tệp lên Google Drive, chia sẻ Bất kỳ ai có liên kết - Người xem. Dán link tệp vào phần Thêm bằng liên kết Google Drive trong bài. Website chỉ chứa liên kết; dung lượng video/tài liệu không cộng vào repo GitHub. Trong cài đặt chia sẻ Drive, tắt quyền tải xuống/in/sao chép nếu cần. Một số tệp cần đợi Drive xử lý trước khi xem được.
+
+Ảnh từ máy tự nén. Video, Word, Excel, PPT, PDF từ máy không được tự nén hay chuyển đổi. Nên dùng Drive với tệp lớn. Word/Excel/PPT có thể xuất thành PDF bằng ứng dụng gốc để xem trực tiếp. Video từ máy nên dùng MP4 đã nén. Website không có nút tải tệp; trình xem PDF/Drive phụ thuộc trình duyệt/dịch vụ, và không thể ngăn mọi cách lưu nội dung.
+
+Trang chủ tự chuyển sang Thư viện ảnh sau 30 giây. Chọn Xác nhận để đi ngay hoặc Hủy để ở lại.
